@@ -31,8 +31,13 @@ export default function Home({ posts }: InferGetStaticPropsType<typeof getStatic
               I'm <span className="font-medium">Arpit Aggarwal</span>
             </h1>
             <p className="mt-4 mb-8">
-              Welcome to my personal website (Still in dev)
+              Thanks for visiting my personal website!
               <br />
+              This is more of an experiment for me, where I am trying out my writing skills.
+              <br />
+              I am gonna share some of my stories around trips, projects and life experiences.
+              <br />
+              Hope you enjoy then!🤞
             </p>
           </div>
         </div>
