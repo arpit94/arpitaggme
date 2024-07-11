@@ -37,7 +37,7 @@ export default function Home({ posts }: InferGetStaticPropsType<typeof getStatic
               <br />
               I am gonna share some of my stories around trips, projects and life experiences.
               <br />
-              Hope you enjoy then!🤞
+              Hope you enjoy them!🤞
             </p>
           </div>
         </div>
