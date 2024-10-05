@@ -33,9 +33,9 @@ export default function Home({ posts }: InferGetStaticPropsType<typeof getStatic
             <p className="mt-4 mb-8">
               Thanks for visiting my personal website!
               <br />
-              This is more of an experiment for me, where I am trying out to write something and test my skills.
+              This is more of an experiment for me, where I am trying out my writing skills.
               <br />
-              I am going share some of my travel stories, learnings, projects and life experiences.
+              I am gonna share some of my stories around trips, projects and life experiences.
               <br />
               Hope you enjoy them!🤞
             </p>
