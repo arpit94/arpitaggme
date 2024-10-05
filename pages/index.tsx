@@ -24,18 +24,18 @@ export default function Home({ posts }: InferGetStaticPropsType<typeof getStatic
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-            Hello! 👋
+            Hello fellow humans! 👋
           </h1>
           <div className="text-lg leading-8 text-gray-600 dark:text-gray-400">
             <h1 className="text-neutral-900 dark:text-neutral-200">
-              I'm <span className="font-medium">Arpit Aggarwal</span>
+              or bots 🤖, I'm <span className="font-medium">Arpit Aggarwal</span>
             </h1>
             <p className="mt-4 mb-8">
               Thanks for visiting my personal website!
               <br />
-              This is more of an experiment for me, where I am trying out my writing skills.
+              This is more of an experiment for me, where I am trying out to write something and test my skills.
               <br />
-              I am gonna share some of my stories around trips, projects and life experiences.
+              I am going share some of my travel stories, learnings, projects and life experiences.
               <br />
               Hope you enjoy them!🤞
             </p>
